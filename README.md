@@ -1,8 +1,7 @@
-# Azure-Covid19-ETL_Project-Gist
+# Azure ETL & Data Analysis Project - COVID-19 Data Pipeline
 
 Note: The ARM template of the the project for the development branch is contained separately in a private repository and is available to view based on trusted access since it may contain sensitive credential information, however you are still able to view the project description and the insights generated.
 
-Azure ETL & Data Analysis Project - COVID-19 Data Pipeline
 🔹 Data Extraction and Ingestion: I extracted data from multiple sources, including HTTP endpoints and Azure Blob Storage, to build a comprehensive dataset for COVID-19 analysis. This process helped me gain a solid understanding of working with diverse data sources and the importance of reliable data ingestion strategies.
 
 🔹 Data Transformation and Cleaning: I utilized ADF Data Flows and Databricks to perform complex data transformations and cleaning tasks. This was crucial in improving the quality of data, ensuring that the dataset was accurate, complete, and ready for analysis. Through this, I learned the importance of data quality and the need for robust data transformation techniques.

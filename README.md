@@ -1,4 +1,4 @@
-# Azure-Covid19Project_Gist
+# Azure-Covid19-ETL_Project-Gist
 
 Note: The ARM template of the the project for the development branch is contained separately in a private repository and is available to view based on trusted access since it may contain sensitive credential information, however you are still able to view the project description and the insights generated.
 
